@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
+    <Filter Include="Source\UI">
+      <UniqueIdentifier>{297c364e-2771-4803-8d62-97fbfd460923}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Materials">
+      <UniqueIdentifier>{9530d6a0-a707-4892-822b-307c86739edb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{eb3e0406-4216-4f2a-be63-66b6745df69a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Shaders">
+      <UniqueIdentifier>{d826c899-01b5-4f58-970e-1b7fc7d69ceb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Entities">
+      <UniqueIdentifier>{8f5be7bf-c2e4-4706-bc70-dfcf86389b84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Entities\Enemies">
+      <UniqueIdentifier>{4307d279-67b0-43bd-8947-208d7e974c06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Entities\Projectiles">
+      <UniqueIdentifier>{5c3502ff-cde9-4a5b-ab08-68d7dee24f40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\StateMachine">
+      <UniqueIdentifier>{a01f68c2-d890-49b9-857c-c816aa3b5a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GameApp">
+      <UniqueIdentifier>{f412ecd8-49be-4e31-babb-775d02feb2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Background">
+      <UniqueIdentifier>{ec45a73d-3891-4465-9c9c-5ba19f91726e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Entities\Particles">
+      <UniqueIdentifier>{c3b6c94c-2d6f-43f3-bc38-c407c18a060e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\StateMachine\GameStateMachine">
+      <UniqueIdentifier>{0b4b9115-45be-40f3-8576-e818d2f6f09a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\StateMachine\LevelStateMachine">
+      <UniqueIdentifier>{62af176c-a5a3-49e6-8dd4-fba964c5c676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Audio">
+      <UniqueIdentifier>{72cfb651-f308-4b34-996b-0c39275e2dbf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Win32.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TheUI.cpp">
+      <Filter>Source\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialManager.cpp">
+      <Filter>Source\Materials</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerShip.cpp">
+      <Filter>Source\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectile.cpp">
+      <Filter>Source\Entities\Projectiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Hellhound.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Firehound.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Firefly.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="NightmareBoss.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="TheApp.cpp">
+      <Filter>Source\GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="TheGame.cpp">
+      <Filter>Source\GameApp</Filter>
+    </ClCompile>
+    <ClCompile Include="TheStarryBackground.cpp">
+      <Filter>Source\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="ChromaticaStateMachine.cpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="EndGameState.cpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuState.cpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayingGameState.cpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1State.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2State.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3State.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level4State.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level5State.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelStateMachine.cpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioSystem.cpp">
+      <Filter>Source\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="TornadoBoss.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Plaguebringer.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Bugzapper.cpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="GameParticle.cpp">
+      <Filter>Source\Entities\Particles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TheUI.hpp">
+      <Filter>Source\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialManager.hpp">
+      <Filter>Source\Materials</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.hpp">
+      <Filter>Source\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerShip.hpp">
+      <Filter>Source\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectile.hpp">
+      <Filter>Source\Entities\Projectiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Hellhound.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Firehound.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Firefly.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="NightmareBoss.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="TheApp.hpp">
+      <Filter>Source\GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="TheGame.hpp">
+      <Filter>Source\GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="TheStarryBackground.hpp">
+      <Filter>Source\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="ChromaticaStateMachine.hpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="EndGameState.hpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuState.hpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayingGameState.hpp">
+      <Filter>Source\StateMachine\GameStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1State.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level2State.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level3State.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level4State.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="Level5State.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelStateMachine.hpp">
+      <Filter>Source\StateMachine\LevelStateMachine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Source\GameApp</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioSystem.hpp">
+      <Filter>Source\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="TornadoBoss.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Plaguebringer.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Bugzapper.hpp">
+      <Filter>Source\Entities\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="GameParticle.hpp">
+      <Filter>Source\Entities\Particles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Run_Win32\Data\Shaders\DefaultSprite.vert">
+      <Filter>Data\Shaders</Filter>
+    </None>
+    <None Include="..\..\Run_Win32\Data\Shaders\DefaultSprite.frag">
+      <Filter>Data\Shaders</Filter>
+    </None>
+    <None Include="..\..\Run_Win32\Data\Shaders\DefaultFullScreen.vert">
+      <Filter>Data\Shaders</Filter>
+    </None>
+    <None Include="..\..\Run_Win32\Data\Shaders\DefaultFullScreen.frag">
+      <Filter>Data\Shaders</Filter>
+    </None>
+    <None Include="..\..\Run_Win32\Data\Shaders\BlurFullScreen.vert">
+      <Filter>Data\Shaders</Filter>
+    </None>
+    <None Include="..\..\Run_Win32\Data\Shaders\BlurFullScreen.frag">
+      <Filter>Data\Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpriteDatabase>
+	<NPCBlueprint ID="Enemy3" TexCoordsRect="(0.00, 0.00), (1.00, 1.00)" Dimensions="(2.84, 2.84)" Pivot="(0.00, 0.00)" TextureFileName="Data/Sprites/BOSS_Type2_Judgement.png"/>
+	<NPCBlueprint ID="Enemy2" TexCoordsRect="(0.00, 0.00), (1.00, 1.00)" Dimensions="(2.84, 2.84)" Pivot="(0.00, 0.00)" TextureFileName="Data/Sprites/BOSS_Type4_Gunlord.png"/>
+	<NPCBlueprint ID="Enemy1" TexCoordsRect="(0.00, 0.00), (1.00, 1.00)" Dimensions="(2.5, 2.5)" Pivot="(0.00, 0.00)" TextureFileName="Data/Sprites/BOSS_Type6_Tornado.png"/>
+</SpriteDatabase>
