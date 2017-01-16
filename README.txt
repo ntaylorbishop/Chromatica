@@ -1,4 +1,17 @@
-KNOWN ISSUES:
+//-------------------------------------------------------------------------------------
+HOW TO USE
+//-------------------------------------------------------------------------------------
 
-	I haven't encountered it in the last week or so, but I've been having periodic issues with the program getting stuck in an infinite loop when the memory debugging is turned on Verbose (Something with not being able to grab the proper metadata).
-	If you run the program and notice that it hangs without loading, just reload it. It happens very parsely.
+KEYBOARD
+
+	Enter - Start game
+	Arrow keys - Move ship
+	Spacebar - Fire
+	
+XBOX CONTROLLER
+
+	Start - Start game
+	Left stick - Move ship
+	Right trigger - Fire
+	
+Plug in up to three extra controllers for multiplayer. Players automatically added / removed when the game detects additional controllers
