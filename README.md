@@ -5,21 +5,11 @@
 
 #How To Use
 
-###KEYBOARD
+| Keyboard      | Xbox Controller | Function      |
+| ------------- | -------------   | :-----------: |
+| Enter         |  Start          | Start Game    |
+| Arrow Keys    |  Left Stick     | Move Ship     |
+| Spacebar      |  Right Trigger  | Fire          |
 
-| Key           | Function      |
-| ------------- |:-------------:|
-| Enter         | Start Game    |
-| Arrow Keys    | Move Ship     |
-| Spacebar      | Fire          |
-
-	
-###XBOX CONTROLLER
-
-| Key           | Function      |
-| ------------- |:-------------:|
-| Start         | Start Game    |
-| Left Stick    | Move Ship     |
-| Right Trigger | Fire          |
 	
 Plug in up to three extra controllers for multiplayer. Players automatically added / removed when the game detects additional controllers
