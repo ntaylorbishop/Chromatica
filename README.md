@@ -5,7 +5,7 @@
 
 #How To Use
 
-##KEYBOARD
+###KEYBOARD
 
 | Key           | Function      |
 | ------------- |:-------------:|
@@ -14,7 +14,7 @@
 | Spacebar      | Fire          |
 
 	
-##XBOX CONTROLLER
+###XBOX CONTROLLER
 
 | Key           | Function      |
 | ------------- |:-------------:|
