@@ -6,14 +6,19 @@
 
 ##KEYBOARD
 
-	Enter - Start game
-	Arrow keys - Move ship
-	Spacebar - Fire
+| Key           | Function      |
+| ------------- |:-------------:|
+| Enter         | Start Game    |
+| Arrow Keys    | Move Ship     |
+| Spacebar      | Fire          |
+
 	
 ##XBOX CONTROLLER
 
-	Start - Start game
-	Left stick - Move ship
-	Right trigger - Fire
+| Key           | Function      |
+| ------------- |:-------------:|
+| Start         | Start Game    |
+| Left Stick    | Move Ship     |
+| Right Trigger | Fire          |
 	
 Plug in up to three extra controllers for multiplayer. Players automatically added / removed when the game detects additional controllers
