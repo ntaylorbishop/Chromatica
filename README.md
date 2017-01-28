@@ -1,6 +1,8 @@
 #Setup
-
-**WARNING:** Project will not compile unless the lib is downloaded from Git LFS. [Use this link to download this project's engine version](https://github.com/ntaylorbishop/Chromatica/raw/master/lib/Apparatus.lib).
+<p align="center">
+<b>WARNING:</b> Project will not compile unless the lib is downloaded from Git LFS.<br/>
+<a href="https://github.com/ntaylorbishop/Chromatica/raw/master/lib/Apparatus.lib">Use this link to download this project's engine version LIB.</a>
+</p>
 
 #How To Use
 
