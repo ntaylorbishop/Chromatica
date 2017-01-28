@@ -7,9 +7,6 @@ Make sure to replace the <i>Apparatus.lib</i> LFS link file in the <b>lib</b> fo
 
 #How To Use
 
-<br/><br/>
-
-
 | Keyboard      | Xbox Controller | Function      |
 | ------------- | -------------   | :-----------: |
 | Enter         |  Start          | Start Game    |
