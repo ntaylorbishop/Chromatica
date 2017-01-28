@@ -1,4 +1,3 @@
-#Setup
 <p align="center">
 <b>WARNING:</b> Project will not compile unless the lib is downloaded from Git LFS.<br/>
 <a href="https://github.com/ntaylorbishop/Chromatica/raw/master/lib/Apparatus.lib">Use this link to download this project's engine version LIB.</a>
