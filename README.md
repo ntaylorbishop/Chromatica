@@ -3,7 +3,7 @@
 <a href="https://github.com/ntaylorbishop/Chromatica/raw/master/lib/Apparatus.lib">Use this link to download this project's engine version LIB.</a>
 <br/>
 Make sure to replace the <i>Apparatus.lib</i> LFS link file in the <b>lib</b> folder with the one downloaded from the link provided.
-</p>
+</p><br/><br/>
 
 #How To Use
 
