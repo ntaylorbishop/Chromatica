@@ -1,14 +1,16 @@
-//-------------------------------------------------------------------------------------
-HOW TO USE
-//-------------------------------------------------------------------------------------
+#Setup
 
-KEYBOARD
+**WARNING:** Project will not compile unless the lib is downloaded from Git LFS. [Use this link to download this project's engine version](https://github.com/ntaylorbishop/Chromatica/raw/master/lib/Apparatus.lib).
+
+#How To Use
+
+##KEYBOARD
 
 	Enter - Start game
 	Arrow keys - Move ship
 	Spacebar - Fire
 	
-XBOX CONTROLLER
+##XBOX CONTROLLER
 
 	Start - Start game
 	Left stick - Move ship
